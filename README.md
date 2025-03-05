@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🛰️ I’m currently working on React Native<br>🤝 I’m looking to collaborate on exciting projects and open-source contributions<br>🤝 I’m looking for help with anything I have worked on and can improve<br>🌱 I’m currently learning advanced JavaScript and React Native best practices<br>💬 Ask me about HTML, CSS, JavaScript, and front-end development<br>⚡ Fun fact I love solving coding challenges and exploring new tech trends<br><br>Let me know if you’d like to tweak or add anything! 🚀
 
 
